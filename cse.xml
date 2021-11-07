@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSearchEngine id="25984c3df49deb8c9" creator="017969608590343115022" language="en" encoding="UTF-8" cx_id="25984c3df49deb8c9" last_update_time_millis="1636250703504" autocompletions="true">
+  <Title>Github_darwinchan2002</Title>
+  <Context>
+    <BackgroundLabels>
+      <Label name="_include_" mode="FILTER"/>
+      <Label name="_exclude_" mode="ELIMINATE"/>
+    </BackgroundLabels>
+  </Context>
+  <LookAndFeel code="4" element_layout="8" theme="7" enable_cse_thumbnail="true" font="2">
+    <Logo/>
+    <Colors/>
+    <Promotions/>
+    <SearchControls/>
+    <Results/>
+  </LookAndFeel>
+  <ImageSearchSettings layout="2"/>
+  <autocomplete_settings/>
+  <sort_by_keys label="Relevance" key=""/>
+  <sort_by_keys label="Date" key="date"/>
+  <cse_advance_settings/>
+</CustomSearchEngine>
